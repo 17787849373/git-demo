@@ -4,4 +4,7 @@ Hello Git
 Hello Git
 Hello Git
 Hello Git
-Hello Gitdfdsfsafasfdfa
+Hello Git
+Hello Git
+Hello Git HOT-FIX
+hot-fix
